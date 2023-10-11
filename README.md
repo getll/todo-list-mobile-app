@@ -13,3 +13,9 @@ clock in
 
 # pattern
 - mvc
+
+# features
+- clock in/out
+- work history
+- todo list
+- notepad
